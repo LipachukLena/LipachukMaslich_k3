@@ -1,3 +1,4 @@
+#Шифр RSA
 def key(f,e):
   d=1
   while (d*e)%f != 1:
